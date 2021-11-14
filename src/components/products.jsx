@@ -5,7 +5,7 @@ const Product = () => {
     return (
     <div className="products">
 
-    <img src="" alt="" />
+    <img src="https://picsum.photos/200" alt="" />
     <h5>Title Here</h5>
 
     <h6>$Total</h6>
